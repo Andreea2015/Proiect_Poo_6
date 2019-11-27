@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1574884621 source:d:\codeblocks\proiecte\proiect_poo_tema6\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+
+1574885436 source:d:\codeblocks\proiecte\proiect_poo_tema6_ciupuliga_andreea_grupa_254\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+
